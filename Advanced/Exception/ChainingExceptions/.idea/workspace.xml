@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="592e106e-c675-45da-be51-2780acfa1729" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/CatchingExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/out/production/CatchingExceptions/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/out/production/CatchingExceptions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingExceptions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/CatchingMultiple.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/out/production/CatchingMultiple/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/out/production/CatchingMultiple/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CatchingMultiple/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/CustomExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/out/production/CustomExceptions/Account.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/out/production/CustomExceptions/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/out/production/CustomExceptions/InsufficientFundsException.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/out/production/CustomExceptions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/src/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/src/InsufficientFundsException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/CustomExceptions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/Exceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/out/production/Exceptions/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/out/production/Exceptions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/Exceptions/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/TheFinallyBlock.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheFinallyBlock/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/TheTry-with-Resources.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/out/production/TheTry-with-Resources/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/out/production/TheTry-with-Resources/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/TheTry-with-Resources/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/ThrowingExceptions.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/out/production/ThrowingExceptions/Accounts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/out/production/ThrowingExceptions/ExceptionDemo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/out/production/ThrowingExceptions/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/src/Accounts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/src/ExceptionDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/ThrowingExceptions/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/CatchingExceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/out/production/CatchingExceptions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingExceptions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/CatchingMultiple.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/out/production/CatchingMultiple/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/out/production/CatchingMultiple/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CatchingMultiple/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/CustomExceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/out/production/CustomExceptions/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/out/production/CustomExceptions/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/out/production/CustomExceptions/InsufficientFundsException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/out/production/CustomExceptions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/src/InsufficientFundsException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CustomExceptions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/Exceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/out/production/Exceptions/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/out/production/Exceptions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Exceptions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/TheFinallyBlock.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheFinallyBlock/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/TheTry-with-Resources.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/out/production/TheTry-with-Resources/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/out/production/TheTry-with-Resources/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TheTry-with-Resources/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/ThrowingExceptions.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/out/production/ThrowingExceptions/Accounts.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/out/production/ThrowingExceptions/ExceptionDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/out/production/ThrowingExceptions/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/src/Accounts.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/src/ExceptionDemo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ThrowingExceptions/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/ConstructorInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/ConstructorInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/CreatingAnInterface.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/TaxCalculator2023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/out/production/CreatingAnInterface/TextReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/CreatingAnInterface/src/TextReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/DependencyInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/DependencyInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/MultipleInheritances/src/AnimalTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/MultipleInheritances/src/AnimalTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/SetterInjection.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/out/production/SetterInjection/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/out/production/SetterInjection/TaxCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/out/production/SetterInjection/TaxCalculator2023.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/out/production/SetterInjection/TaxCalculator2024.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/out/production/SetterInjection/TaxReport.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/src/TaxCalculator2023.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/src/TaxCalculator2024.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/SetterInjection/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/TightlyCoupled.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/src/TaxCalculator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Inheritances/TightlyCoupled/src/TaxReport.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/Fields/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/Fields/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/ProjectMyTubeVideo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/src/EmailService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/src/User.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/src/Video.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/src/VideoDatabase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/src/VideoEncoder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Object-oriented Programming/Interface/ProjectMyTubeVideo/src/VideoProcessor.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2Lx1JQWbSFdcYVhe23NrBnyZitD" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="592e106e-c675-45da-be51-2780acfa1729" name="Changes" comment="" />
+      <created>1676797852215</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1676797852215</updated>
+      <workItem from="1676797852217" duration="916000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
